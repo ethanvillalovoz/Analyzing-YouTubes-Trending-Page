@@ -29,6 +29,8 @@ def load_data() -> Tuple[pd.DataFrame, pd.DataFrame]:
         'replies': int
     })
 
+    comments.dropna(inplace = True) #drop entries with null values
+
     return videos, comments
 
 def main():
