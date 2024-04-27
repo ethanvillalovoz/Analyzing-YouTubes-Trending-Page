@@ -2,7 +2,7 @@ from os import path
 from typing import Tuple
 import pandas as pd
 
-data_dir = path.join(path.dirname(__file__), "../data")
+data_dir = path.join(path.dirname(__file__), "../cleaned_data")
 
 def load_data() -> Tuple[pd.DataFrame, pd.DataFrame]:
     videos = pd.read_csv(path.join(data_dir, "USvideos.csv"), dtype={
