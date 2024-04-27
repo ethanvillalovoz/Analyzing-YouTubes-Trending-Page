@@ -30,9 +30,9 @@ Our research will use:
 - Click the 'Upload' tab and select the Jupyter Notebooks on your local machine.
     - Within the Jupyter Notebooks, there will be a cell that you can run that will allow you to choose the .csv files (data files) which you will select and be uploaded within the respective Jupyter Notebook project.
 
-# App Usage
+# Notebooks
 
-## Adding Lists
+## apriori.ipynb
 - Click "Add List", type the name of the list you wish to add and press the enter key when you're finished naming the list
 - Clicking away from the input text field will cancel list creation.
 - Multiple lists can be added (even lists with the same name!)
