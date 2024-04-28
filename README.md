@@ -39,9 +39,21 @@ Our research will use:
 - [relationship_analysis.ipynb](notebook/relationship_analysis.ipynb)
     Finds relationships between numerical data categories in terms of strength and direction of the linear relationship between two variables and generates accompanying graphs.
 
+# Original Data Set
+
+For this project, we used the Kaggle Data Set 'Trending YouTube Video Statistics and Comments.' Within this folder, it contains all of the raw data. For further information, you can view the website: https://www.kaggle.com/datasets/datasnaek/youtube
+
+# Cleaned Data (Pre-Processing Data)
+
+This folder contains all the cleaned data we used from the Kaggle Data Set 'Trending YouTube Video Statistics and Comments.' For this project, we only used the 'UScomments.csv' and 'USvideos.csv' because we believed that these were the most relevant to our audience.
+
+Issues that were in these .csv files were:
+
+- *Issue 1*
+
 # Documents
 
-For more information on our project, you can view the following documents for an in depth analysis of our findings:
+For more information on our project, you can view the following documents for an in-depth analysis of our findings:
 
 - Presentation
 - Final Report Abstract
