@@ -30,15 +30,6 @@ Our research will use:
 - Click the 'Upload' tab and select the Jupyter Notebooks on your local machine.
     - Within the Jupyter Notebooks, there will be a cell that you can run that will allow you to choose the .csv files (data files) which you will select and be uploaded within the respective Jupyter Notebook project.
 
-# Notebooks
-
-- [apriori.ipynb](notebook/apriori.ipynb)
-    Uncovers frequent item sets or patterns among categorical variables like video tags or categories. This helps identify associations between different attributes and understand viewer preferences.
-- [regression.ipynb](notebook/regression.ipynb)
-    Models the relationship between numerical variables such as views, likes, and comments. It helps understand how changes in one variable affect another, thus providing insights into factors influencing video popularity.
-- [relationship_analysis.ipynb](notebook/relationship_analysis.ipynb)
-    Finds relationships between numerical data categories in terms of strength and direction of the linear relationship between two variables and generates accompanying graphs.
-
 # Original Data Set
 
 For this project, we used the Kaggle Data Set 'Trending YouTube Video Statistics and Comments.' Within this folder, it contains all of the raw data. For further information, you can view the website: https://www.kaggle.com/datasets/datasnaek/youtube
@@ -54,6 +45,15 @@ Issues that were in these .csv files were:
 We resolved these issues by:
 
 - *Resolved solution 1*
+
+# Notebooks
+
+- [apriori.ipynb](notebook/apriori.ipynb)
+    Uncovers frequent item sets or patterns among categorical variables like video tags or categories. This helps identify associations between different attributes and understand viewer preferences.
+- [regression.ipynb](notebook/regression.ipynb)
+    Models the relationship between numerical variables such as views, likes, and comments. It helps understand how changes in one variable affect another, thus providing insights into factors influencing video popularity.
+- [relationship_analysis.ipynb](notebook/relationship_analysis.ipynb)
+    Finds relationships between numerical data categories in terms of strength and direction of the linear relationship between two variables and generates accompanying graphs.
 
 # Documents
 
