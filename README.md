@@ -8,7 +8,7 @@ Instructor: Dr. Honghao Wei
 
 Contributors: Ethan Villalovoz, Logan Sutton, Berkeley Conkling, Roy Zabetski, Kyle Hawkins, Chance Bradford, Matthew Bruggeman, Wenjie Wang, Silvestre Pamatz-Rangel
 
-# Summary
+# Project Description 
 
 YouTube is one of the largest online entertainment industries. Anyone with a Google account can upload short and long-form videos to the platform. People who have found success on the platform, often called content creators, post videos and hope to make it on YouTube’s trending page. What do all of these trending videos have in common? What statistics make the YouTube algorithm classify a video as trending? We want to allow content creators to understand what makes a video get on the YouTube trending page.
 
