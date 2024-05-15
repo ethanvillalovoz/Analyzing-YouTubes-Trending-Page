@@ -58,11 +58,11 @@ We resolved these issues by:
 
 # Notebooks
 
-- [apriori.ipynb](notebook/apriori.ipynb)
+- [apriori.ipynb](notebooks/apriori.ipynb)
     Uncovers frequent item sets or patterns among categorical variables like video tags or categories. This helps identify associations between different attributes and understand viewer preferences.
-- [regression.ipynb](notebook/regression.ipynb)
+- [regression.ipynb](notebooks/regression.ipynb)
     Models the relationship between numerical variables such as views, likes, and comments. It helps understand how changes in one variable affect another, thus providing insights into factors influencing video popularity.
-- [relationship_analysis.ipynb](notebook/relationship_analysis.ipynb)
+- [relationship_analysis.ipynb](notebooks/relationship_analysis.ipynb)
     Finds relationships between numerical data categories in terms of strength and direction of the linear relationship between two variables and generates accompanying graphs.
 
 # Documents
