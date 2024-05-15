@@ -69,7 +69,7 @@ We resolved these issues by:
 
 For more information on our project, you can view the following documents for an in-depth analysis of our findings:
 
-- Presentation
-- Final Report Abstract
+- [Presentation](documents/presentation.pdf)
+- [Final Report Abstract]()
 - Final Report
 
