@@ -65,7 +65,7 @@ We resolved these issues by:
 - [relationship_analysis.ipynb](notebooks/relationship_analysis.ipynb)
     Finds relationships between numerical data categories in terms of strength and direction of the linear relationship between two variables and generates accompanying graphs.
 
-# Documents
+# Documentation 
 
 For more information on our project, you can view the following documents for an in-depth analysis of our findings:
 
