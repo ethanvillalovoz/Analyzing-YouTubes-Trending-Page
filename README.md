@@ -21,7 +21,7 @@ Our research will use:
     Logistic Regression
 
 
-# Repository and Installation setup
+# Repository and Installation Setup
 
 - All software used to run our Jupyter Notebooks is in Google Colab.
     - You could also open the Jupyter Notebooks within Visual Studio Code with Jupyter Notebook installed on your device; however, we will not cover how to install/set up that method.
