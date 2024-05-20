@@ -23,7 +23,27 @@ This repository contains all the work completed by the CPTS-315 CougCoders team 
 
 ### Data Description
 
-The data used for this project is sourced from the Kaggle dataset 'Trending YouTube Video Statistics and Comments.' It contains information about video statistics and comments. We preprocessed the data to address issues such as missing values and extraneous columns.
+The data used for this project is sourced from the Kaggle dataset 'Trending YouTube Video Statistics and Comments.' It contains information about video statistics and comments. For further information, you can view the website: https://www.kaggle.com/datasets/datasnaek/youtube
+
+#### Cleaned Data (Pre-Processing Data)
+
+This folder contains all the cleaned data we used from the Kaggle Data Set 'Trending YouTube Video Statistics and Comments.' For this project, we only used the 'UScomments.csv' and 'USvideos.csv' because we believed that these were the most relevant to our audience.
+
+Issues that were in these .csv files were:
+
+- Rows were missing newline separators
+- Rows were missing columns
+- Rows contained extraneous columns
+- Rows were missing closing quotes
+
+We resolved these issues by:
+
+- When it is clear that a single newline and nothing else has been lost, it is reinserted in the correct position.
+- When a row is missing columns, the entire row is removed.
+- When a single item (video or comment) spans multiple rows, all relevant rows are removed because the item is usually abruptly cut off.
+- Any row that contains a CSV header in it is removed because some columns are always cut off.
+- Columns in rows that are missing a closing quote are removed because we have to assume that the rest of the text is missing.
+- Any extraneous columns in rows will be removed if and only if the column can be extracted cleanly.
 
 ### Notebooks
 
