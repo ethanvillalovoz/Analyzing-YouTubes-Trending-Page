@@ -26,7 +26,14 @@ This repository contains all the work completed by the CPTS-315 CougCoders team 
 
 ### Repository & Installation Setup
 
-- All software used for this project is hosted on Google Colab. Simply follow the provided instructions to access and run the Jupyter Notebooks.
+- All software used to run our Jupyter Notebooks is in Google Colab.
+    - You could also open the Jupyter Notebooks within Visual Studio Code with Jupyter Notebook installed on your device; however, we will not cover how to install/set up that method.
+- To access Google Colab, you only need a Gmail account, which you can use for your current or personal email.
+    - Here is the website for Google Colab: https://colab.google/
+- Download the Jupyter Notebooks along with the clean .csv files (data) from the 'cleaned_data' folder to your local machine.
+- Once you have opened Google Colab, on the main website click 'open colab'. This will take you to a new page and prompt you with a box having multiple section tabs.
+- Click the 'Upload' tab and select the Jupyter Notebooks on your local machine.
+    - Within the Jupyter Notebooks, there will be a cell that you can run that will allow you to choose the .csv files (data files) which you will select and be uploaded within the respective Jupyter Notebook project.
 - Ensure you have the necessary data files (`UScomments.csv` and `USvideos.csv`) downloaded from the 'cleaned_data' folder to your local machine.
 
 ### Data Description
