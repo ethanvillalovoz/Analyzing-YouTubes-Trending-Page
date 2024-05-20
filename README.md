@@ -27,7 +27,7 @@ The data used for this project is sourced from the Kaggle dataset 'Trending YouT
 
 #### Cleaned Data (Pre-Processing Data)
 
-This folder contains all the cleaned data we used from the Kaggle Data Set 'Trending YouTube Video Statistics and Comments.' For this project, we only used the 'UScomments.csv' and 'USvideos.csv' because we believed that these were the most relevant to our audience.
+The folder 'cleaned_data' contains all the cleaned data we used from the Kaggle Data Set 'Trending YouTube Video Statistics and Comments.' For this project, we only used the 'UScomments.csv' and 'USvideos.csv' because we believed that these were the most relevant to our audience.
 
 Issues that were in these .csv files were:
 
